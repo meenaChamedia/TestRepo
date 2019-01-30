@@ -1,2 +1,2 @@
 # TestRepo
-My Training Repo
+My Training Project Repo
